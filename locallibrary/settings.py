@@ -141,4 +141,4 @@ STATIC_URL = '/static/'
 # https://warehouse.python.org/project/whitenoise/
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
  
-ALLOWED_HOSTS = ['https://rocky-mountain-33362.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['rocky-mountain-33362.herokuapp.com','127.0.0.1']
